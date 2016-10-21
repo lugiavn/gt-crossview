@@ -19,12 +19,12 @@ For the caffe model, we reimplemented/refactored the original code so that it's 
 | Tables               | Denver test set | Detroit test set | Seattle test set |
 | -------------------- |:---------------:|:----------------:|:----------------:|
 | Best classification  |                 |                  |                  |
-| 1 rotation crop      |  93.0           |     89.5         |  0               |
-| 4 rotation crops     |  93.4           |     89.9         |  0               |
-| 16 rotation crops    |  93.7           |     90.1         |  0               |
+| 1 rotation crop      |  93.0           |     89.5         |  89.4            |
+| 4 rotation crops     |  93.4           |     89.9         |  89.8            |
+| 16 rotation crops    |  93.7           |     90.1         |  89.9            |
 | Recall at 0.01       |                 |                  |                  |
-| 1 rotation crop      | 58.2            |    52.0          |  0               |
-| 4 rotation crops     |  66.8           |     59.8         |  0               |
-| 16 rotation crops    | 69.5            |     61.3         |  0               |
+| 1 rotation crop      | 58.2            |    52.0          |  46.1            |
+| 4 rotation crops     |  66.8           |     59.8         |  53.3            |
+| 16 rotation crops    | 69.5            |     61.3         |  55.5            |
 
 
