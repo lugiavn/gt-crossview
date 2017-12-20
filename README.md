@@ -27,4 +27,5 @@ For the caffe model, we reimplemented/refactored the original code so that it's 
 | 4 rotation crops     |  66.8           |     59.8         |  53.3            |
 | 16 rotation crops    | 69.5            |     61.3         |  55.5            |
 
+or you can use a model that we trained: https://github.com/lugiavn/gt-crossview/issues/1
 
